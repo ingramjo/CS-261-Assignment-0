@@ -1,0 +1,4 @@
+Write your first C program for this course:
+Write a Simple C program to convert a value from inches to centimeters and vice versa. You must compile
+and run it on your IDE and also compile and run it on Flip server.
+Capture the screenshots.
